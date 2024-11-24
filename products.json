@@ -173,5 +173,12 @@
     "Manufacturer": "ыф",
     "Category": "Техника",
     "Timestamp": "2024-11-24T19:25:12.8091531+03:00"
-  }
+  },
+  {
+  "Code": "a7db7db10a673eeedf7c99b2c0f3277358888ad0c42e3fc17d98e8951bcd5878",
+  "Name": "g",
+  "Manufacturer": "d",
+  "Category": "Техника",
+  "Timestamp": "2024-11-24T19:50:41.6512277+03:00"
+}
 ]
